@@ -1,5 +1,4 @@
--- Made by Blue & Dungeon for Syn County RP
--- Credits to malik & the creator of kcrp_boats_vorp
+-- Made by Blue
 
 TriggerEvent("getCore",function(core)
     VorpCore = core
